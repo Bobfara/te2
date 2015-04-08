@@ -5,30 +5,30 @@
                 "name": "Category Title",
                 "wallpaper": [
                     {
-                        "author": "By Bldh",
-                        "url": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "thumbUrl": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "name": "Babak"
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.some-url.com/wp_1.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_1.png",
+                        "name": "WP 1"
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "thumbUrl": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "name": "btght2"
+                        "url": "http://www.some-url.com/wp_2.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_2.png",
+                        "name": "WP 2"
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "thumbUrl": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "name": "ht3"
+                        "url": "http://www.some-url.com/wp_3.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_3.png",
+                        "name": "WP 3"
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "thumbUrl": "https://d3b7d0493789238f314745cd5e545073bff89ed5.googledrive.com/host/0B5Ij9rgxFZRNWldvUHlZUTRxSjg",
-                        "name": "hthr4"
+                        "url": "http://www.some-url.com/wp_4.png",
+                        "thumbUrl": "http://www.some-url.com/wp_thumb_4.png",
+                        "name": "WP 4"
                     }
-                    ]
+                ]
             },
             {
                 "name": "Category Title 2",
