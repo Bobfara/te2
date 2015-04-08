@@ -16,12 +16,12 @@
                         "thumbUrl": "https://raw.githubusercontent.com/Bobfara/te2/master/photos/s/small_pic_10.jpg",
                         "name": "btght2"
                     },
-                    {
+                       {
                         "author": "By Blah Blah Blah",
                         "url": "https://raw.githubusercontent.com/Bobfara/te2/7aad4426e7a390b2f4c9ef5e7a537f0df7989616/photos/b/pic_11.jpg",
                         "thumbUrl": "https://raw.githubusercontent.com/Bobfara/te2/master/photos/s/small_pic_11.jpg",
                         "name": "ht3"
-                    },
+                        },
 			{
 			"author": "DesignRifts",
 			"url": "http://designrifts.com/wallpapers/free/AndroidIndustries.jpg",
@@ -30,8 +30,8 @@
 			},
 			{
 			"author": "DesignRifts",
-			"url": "http://designrifts.com/wallpapers/free/AndroidIndustries_aviator.jpg",
-			"thumbUrl": "http://designrifts.com/wallpapers/free/AndroidIndustries_aviator.jpg",
+			 "url": "https://raw.githubusercontent.com/Bobfara/te2/7aad4426e7a390b2f4c9ef5e7a537f0df7989616/photos/b/pic_11.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/Bobfara/te2/master/photos/s/small_pic_11.jpg",
 			"name": "AndroidIndustries_aviator"
 			},
 			{
